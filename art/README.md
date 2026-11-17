@@ -8,6 +8,10 @@
 
 The Pixar-inspired 3D pass draws on the expressive character shapes of *Turning Red* and the tactile animal rendering of *Hoppers*. Each character sheet shows three turnaround views and two close-ups.
 
+## Kodi helmet variant
+
+- [3D model sheet with buckled helmet](style-explorations/pixar-inspired-3d/kodi-helmet-model-sheet.png)
+
 ## Basket scene style studies
 
 These three studies use the original wicker-basket scene as a common reference.
